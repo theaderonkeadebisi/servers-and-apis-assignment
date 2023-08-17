@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Shirt",
+        "price": "$100",
+        "size": "medium",
+        "id": 1
+    },
+    {
+        "name": "Gown",
+        "price": "$1000",
+        "size": "small",
+        "id": 2
+    },
+    {
+        "name": "Trouser",
+        "price": "$50",
+        "size": "large",
+        "id": 3
+    },
+    {
+        "name": "Skirt",
+        "price": "$10",
+        "size": "medium",
+        "id": 4
+    }
+]
